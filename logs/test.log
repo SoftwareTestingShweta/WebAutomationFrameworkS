@@ -1,0 +1,9 @@
+2024-07-30 16:47:33 INFO  TestVWOLogin_PF_DM - Starting Test
+2024-07-30 16:47:33 INFO  TestVWOLogin_PF_DM - Opening the URL
+2024-07-30 16:47:47 INFO  TestVWOLogin_PF_DM - Verifying the Result
+2024-07-30 23:31:27 INFO  TestVWOLogin_PF_DM_QA - Starting Test in QA environment
+2024-07-30 23:31:27 INFO  TestVWOLogin_PF_DM_QA - Opening the URL
+2024-07-30 23:31:39 INFO  TestVWOLogin_PF_DM_QA - Verifying the Result
+2024-07-31 11:04:50 INFO  TestVWOLogin_PF_DM_QA - Starting Test in QA environment
+2024-07-31 11:04:50 INFO  TestVWOLogin_PF_DM_QA - Opening the URL
+2024-07-31 11:05:02 INFO  TestVWOLogin_PF_DM_QA - Verifying the Result
